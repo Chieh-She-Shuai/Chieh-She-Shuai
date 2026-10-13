@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Chieh-She-Shuai/Chieh-She-Shuai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;Chieh-She-Shuai;Cybersecurity+Researcher+%2F%2F+Polymath;I+break+things+to+understand+them." alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+chieh@sec-lab:~$ whoami
+> Chieh-She-Shuai
+> cybersecurity-researcher // polymath
+
+chieh@sec-lab:~$ cat about.txt
+> Curious about how systems fail — and why.
+> I hunt vulnerabilities, take binaries apart, and chase
+> ideas across math, philosophy, and whatever rabbit hole is next.
+
+chieh@sec-lab:~$ cat interests.txt
+[+] vulnerability research      [+] reverse engineering
+[+] cryptography                [+] malware analysis
+[+] mathematics                 [+] philosophy
+
+chieh@sec-lab:~$ uptime
+> currently: learning something new, as always
+```
+
+### `> ls ./arsenal`
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
+</p>
+
+### `> ./stats --verbose`
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chieh-She-Shuai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieh-She-Shuai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
+</p>
+
+### `> ./snake --eat-commits`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake-dark.svg" />
+</picture>
+
+### `> cat contact.txt`
+
+<p align="left">
+  <!-- Kendi linklerinle değiştir veya istemediğin satırı sil -->
+  <a href="chieh-she-shuai.9quy2@mailer.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=39FF14" /></a>
+</p>
+
+```bash
+chieh@sec-lab:~$ exit
+> connection closed. stay curious.
+```
