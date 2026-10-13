@@ -54,7 +54,7 @@ chieh@sec-lab:~$ uptime
 
 <p align="left">
   <!-- Kendi linklerinle değiştir veya istemediğin satırı sil -->
-  <a href="chieh-she-shuai.9quy2@mailer.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=39FF14" /></a>
+  <a href="mailto:chieh-she-shuai.9quy2@mailer.me"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=protonmail&logoColor=39FF14" /></a>
 </p>
 
 ```bash
