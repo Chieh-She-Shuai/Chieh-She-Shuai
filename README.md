@@ -50,6 +50,17 @@ chieh@sec-lab:~$ uptime
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake-dark.svg" />
 </picture>
 
+### `> git log --contributions`
+
+```bash
+chieh@sec-lab:~$ git log --author="Chieh-She-Shuai" --oneline --all-repos
+cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
+```
+
+<p align="left">
+  <a href="https://github.com/ChrisTitusTech/winutil/pull/5176"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/winutil/5176?style=for-the-badge&logo=github&logoColor=39FF14&label=winutil%20%235176&labelColor=0d1117" alt="winutil PR #5176" /></a>
+</p>
+
 ### `> cat contact.txt`
 
 <p align="left">
