@@ -17,7 +17,7 @@ chieh@sec-lab:~$ cat about.txt
 chieh@sec-lab:~$ cat interests.txt
 [+] vulnerability research      [+] reverse engineering
 [+] cryptography                [+] malware analysis
-[+] mathematics                 [+] philosophy
+[+] mathematics                 [+] OSINT
 
 chieh@sec-lab:~$ uptime
 > currently: learning something new, as always
