@@ -32,11 +32,14 @@ chieh@sec-lab:~$ uptime
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Debian-0d1117?style=for-the-badge&logo=debian&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/GnuPG-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" />
 </p>
 
