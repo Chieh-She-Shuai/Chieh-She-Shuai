@@ -29,7 +29,6 @@ chieh@sec-lab:~$ uptime
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
@@ -54,11 +53,13 @@ chieh@sec-lab:~$ uptime
 
 ```bash
 chieh@sec-lab:~$ git log --author="Chieh-She-Shuai" --oneline --all-repos
+2d74ecd (ChrisTitusTech/linutil) Add rkhunter rootkit scan to Security tab
 cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
 ```
 
 <p align="left">
   <a href="https://github.com/ChrisTitusTech/winutil/pull/5176"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/winutil/5176?style=for-the-badge&logo=github&logoColor=39FF14&label=winutil%20%235176&labelColor=0d1117" alt="winutil PR #5176" /></a>
+  <a href="https://github.com/ChrisTitusTech/linutil/pull/1396"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/linutil/1396?style=for-the-badge&logo=github&logoColor=39FF14&label=linutil%20%231396&labelColor=0d1117" alt="linutil PR #1396" /></a>
 </p>
 
 ### `> cat contact.txt`
