@@ -39,7 +39,7 @@ chieh@sec-lab:~$ uptime
   <img src="https://img.shields.io/badge/GnuPG-0d1117?style=for-the-badge&logo=gnuprivacyguard&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=39FF14" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-0d1117?style=for-the-badge&logo=aws&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" />
 </p>
 
