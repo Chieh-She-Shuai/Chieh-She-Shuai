@@ -43,13 +43,6 @@ chieh@sec-lab:~$ uptime
   <img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" />
 </p>
 
-### `> ./stats --verbose`
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chieh-She-Shuai&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chieh-She-Shuai&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
-</p>
-
 ### `> ./snake --eat-commits`
 
 <picture>
@@ -62,6 +55,7 @@ chieh@sec-lab:~$ uptime
 
 ```bash
 chieh@sec-lab:~$ git log --author="Chieh-She-Shuai" --oneline --all-repos
+b0c46c7 (sherlock-project/sherlock) Add YesWeHack
 2d74ecd (ChrisTitusTech/linutil) Add rkhunter rootkit scan to Security tab
 cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
 ```
@@ -69,6 +63,7 @@ cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
 <p align="left">
   <a href="https://github.com/ChrisTitusTech/winutil/pull/5176"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/winutil/5176?style=for-the-badge&logo=github&logoColor=39FF14&label=winutil%20%235176&labelColor=0d1117" alt="winutil PR #5176" /></a>
   <a href="https://github.com/ChrisTitusTech/linutil/pull/1396"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/linutil/1396?style=for-the-badge&logo=github&logoColor=39FF14&label=linutil%20%231396&labelColor=0d1117" alt="linutil PR #1396" /></a>
+  <a href="https://github.com/sherlock-project/sherlock/pull/3195"><img src="https://img.shields.io/github/pulls/detail/state/sherlock-project/sherlock/3195?style=for-the-badge&logo=github&logoColor=39FF14&label=sherlock%20%233195&labelColor=0d1117" alt="sherlock PR #3195" /></a>
 </p>
 
 ### `> cat contact.txt`
