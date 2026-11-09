@@ -55,6 +55,7 @@ chieh@sec-lab:~$ uptime
 
 ```bash
 chieh@sec-lab:~$ git log --author="Chieh-She-Shuai" --oneline --all-repos
+f19c006 (sherlock-project/sherlock) Add crates.io
 b0c46c7 (sherlock-project/sherlock) Add YesWeHack
 2d74ecd (ChrisTitusTech/linutil) Add rkhunter rootkit scan to Security tab
 cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
@@ -64,6 +65,7 @@ cbd0451 (ChrisTitusTech/winutil) Add ImHex to applications.json
   <a href="https://github.com/ChrisTitusTech/winutil/pull/5176"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/winutil/5176?style=for-the-badge&logo=github&logoColor=39FF14&label=winutil%20%235176&labelColor=0d1117" alt="winutil PR #5176" /></a>
   <a href="https://github.com/ChrisTitusTech/linutil/pull/1396"><img src="https://img.shields.io/github/pulls/detail/state/ChrisTitusTech/linutil/1396?style=for-the-badge&logo=github&logoColor=39FF14&label=linutil%20%231396&labelColor=0d1117" alt="linutil PR #1396" /></a>
   <a href="https://github.com/sherlock-project/sherlock/pull/3195"><img src="https://img.shields.io/github/pulls/detail/state/sherlock-project/sherlock/3195?style=for-the-badge&logo=github&logoColor=39FF14&label=sherlock%20%233195&labelColor=0d1117" alt="sherlock PR #3195" /></a>
+  <a href="https://github.com/sherlock-project/sherlock/pull/3217"><img src="https://img.shields.io/github/pulls/detail/state/sherlock-project/sherlock/3217?style=for-the-badge&logo=github&logoColor=39FF14&label=sherlock%20%233217&labelColor=0d1117" alt="sherlock PR #3217" /></a>
 </p>
 
 ### `> cat contact.txt`
