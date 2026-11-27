@@ -12,7 +12,7 @@ chieh@sec-lab:~$ whoami
 chieh@sec-lab:~$ cat about.txt
 > Curious about how systems fail — and why.
 > I hunt vulnerabilities, take binaries apart, and chase
-> ideas across math, cryptography, and whatever rabbit hole is next.
+> ideas across math, linguistics, and whatever rabbit hole is next.
 
 chieh@sec-lab:~$ cat interests.txt
 [+] vulnerability research      [+] reverse engineering
