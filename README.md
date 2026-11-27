@@ -43,14 +43,6 @@ chieh@sec-lab:~$ uptime
   <img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=39FF14" />
 </p>
 
-### `> ./snake --eat-commits`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Chieh-She-Shuai/Chieh-She-Shuai/output/github-snake-dark.svg" />
-</picture>
-
 ### `> git log --contributions`
 
 ```bash
