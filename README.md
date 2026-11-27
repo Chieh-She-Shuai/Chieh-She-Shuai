@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.pfps.gg/banners/3467-black-and-white.png" width="100%" alt="banner" />
+<img src="https://cdn.pfps.gg/banners/91157-600585-takemyhand.png" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%24+whoami;Chieh-She-Shuai;Cybersecurity+Researcher+%2F%2F+Polymath;The+brain+is+the+most+powerful+weapon." alt="Typing SVG" />
 
@@ -76,6 +76,6 @@ chieh@sec-lab:~$ exit
 
 <div align="center">
 
-<img src="https://cdn.pfps.gg/banners/91157-600585-takemyhand.png" width="100%" alt="banner" />
+<img src="https://cdn.pfps.gg/banners/3467-black-and-white.png" width="100%" alt="banner" />
 
 </div>
